@@ -2,13 +2,13 @@
 
 A lightweight, SEO-optimized landing page that instantly redirects to the PDF version of **Amith Abey Stephen’s resume** hosted on Google Drive.  
 
-The purpose of this project is to provide a **professional, branded link** (`resume-amithabeystephen.vercel.app`) that can be shared with recruiters, colleagues, or clients while ensuring **maximum SEO value** and **instant access**.
+The purpose of this project is to provide a **professional, branded link** (`resume-amiths.vercel.app`) that can be shared with recruiters, colleagues, or clients while ensuring **maximum SEO value** and **instant access**.
 
 ---
 
 ## 🔗 Live Demo
 
-[https://resume-amithabeystephen.vercel.app](https://resume-amithabeystephen.vercel.app)
+[https://resume-amiths.vercel.app](https://resume-amiths.vercel.app)
 
 ---
 
@@ -31,7 +31,7 @@ The purpose of this project is to provide a **professional, branded link** (`res
 
 ## 🛠 How It Works
 
-1. **User opens the link** (`resume-amithabeystephen.vercel.app`).  
+1. **User opens the link** (`resume-amiths.vercel.app`).  
 2. **JavaScript instantly redirects** to the Google Drive PDF preview of the resume.  
 3. **Structured data & meta tags** ensure search engines index the page properly.  
 4. If JavaScript is disabled, the `<noscript>` fallback redirects automatically.
@@ -46,7 +46,7 @@ This project is designed to be hosted on **Vercel**, but it can work on any stat
 
 1. Create a GitHub repository and push the `index.html` file.  
 2. Import the repo into [Vercel](https://vercel.com).  
-3. Assign the custom domain `resume-amithabeystephen.vercel.app`.  
+3. Assign the custom domain `resume-amiths.vercel.app`.  
 4. Done! Share your link anywhere.
 
 ---
