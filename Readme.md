@@ -8,7 +8,7 @@ The purpose of this project is to provide a **professional, branded link** (`res
 
 ## 🔗 Live Demo
 
-[https://resume-heyamith.vercel.app](https://resume-heyamith.vercel.app)
+[https://resume.amith.site](https://resume.amith.site)
 
 ---
 
